@@ -1,3 +1,7 @@
+# REPOSITORY MIGRATION NOTICE
+
+Migrated to [SourceHut](https://git.sr.ht/~kovmir/tinytldr).
+
 # tinytldr
 
 [![tinytldr status](https://builds.sr.ht/~kovmir/tinytldr.svg)](https://builds.sr.ht/~kovmir/tinytldr?)
